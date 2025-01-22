@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Behoop/static/css/main.9f63103b.css",
-    "main.js": "/Behoop/static/js/main.ce0f2735.js",
+    "main.js": "/Behoop/static/js/main.9488f7d2.js",
     "static/js/252.c255c148.chunk.js": "/Behoop/static/js/252.c255c148.chunk.js",
     "static/js/588.c97b1efa.chunk.js": "/Behoop/static/js/588.c97b1efa.chunk.js",
     "static/js/877.ef9be134.chunk.js": "/Behoop/static/js/877.ef9be134.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/undraw_search-engines_k649.svg": "/Behoop/static/media/undraw_search-engines_k649.55211e5b443bdc5bd2265cacc696f612.svg",
     "index.html": "/Behoop/index.html",
     "main.9f63103b.css.map": "/Behoop/static/css/main.9f63103b.css.map",
-    "main.ce0f2735.js.map": "/Behoop/static/js/main.ce0f2735.js.map",
+    "main.9488f7d2.js.map": "/Behoop/static/js/main.9488f7d2.js.map",
     "252.c255c148.chunk.js.map": "/Behoop/static/js/252.c255c148.chunk.js.map",
     "588.c97b1efa.chunk.js.map": "/Behoop/static/js/588.c97b1efa.chunk.js.map",
     "877.ef9be134.chunk.js.map": "/Behoop/static/js/877.ef9be134.chunk.js.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.9f63103b.css",
-    "static/js/main.ce0f2735.js"
+    "static/js/main.9488f7d2.js"
   ]
 }
