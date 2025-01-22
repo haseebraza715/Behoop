@@ -162,10 +162,10 @@ const Footer = () => {
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <a
-                  href="mailto:support@deepseek.com"
+                  href="mailto:support@behoop.com"
                   className="hover:text-primary transition-colors"
                 >
-                  support@deepseek.com
+                  support@Behoop.com
                 </a>
               </motion.li>
               <motion.li
@@ -204,9 +204,7 @@ const Footer = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <p>
-            &copy; {new Date().getFullYear()} DeepSeek. All rights reserved.
-          </p>
+          <p>&copy; {new Date().getFullYear()} Behoop. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>
