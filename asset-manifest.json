@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Behoop/static/css/main.9f63103b.css",
+    "main.js": "/Behoop/static/js/main.ce0f2735.js",
+    "static/js/252.c255c148.chunk.js": "/Behoop/static/js/252.c255c148.chunk.js",
+    "static/js/588.c97b1efa.chunk.js": "/Behoop/static/js/588.c97b1efa.chunk.js",
+    "static/js/877.ef9be134.chunk.js": "/Behoop/static/js/877.ef9be134.chunk.js",
+    "static/js/258.11dc32ca.chunk.js": "/Behoop/static/js/258.11dc32ca.chunk.js",
+    "static/js/211.d92ca296.chunk.js": "/Behoop/static/js/211.d92ca296.chunk.js",
+    "static/media/web.png": "/Behoop/static/media/web.80baec21d5d68d55506d.png",
+    "static/media/Healthcare app.jpeg": "/Behoop/static/media/Healthcare app.6980c283a92ad16ac722.jpeg",
+    "static/media/cwebsite.webp": "/Behoop/static/media/cwebsite.712d1c336818080e0c56.webp",
+    "static/media/undraw_contact-us_kcoa.svg": "/Behoop/static/media/undraw_contact-us_kcoa.9305e6a2a7d49d7b9b6207338f8f1c34.svg",
+    "static/media/undraw_web-developer_ggt0.svg": "/Behoop/static/media/undraw_web-developer_ggt0.4d59825db95d5e821330e6b770e3529a.svg",
+    "static/media/undraw_services_dhxj.svg": "/Behoop/static/media/undraw_services_dhxj.321e491d8eb59706dff0d0f5a912be99.svg",
+    "static/media/undraw_coding_joxb.svg": "/Behoop/static/media/undraw_coding_joxb.1fe3f546d85c2df03d353d87cb58a1ac.svg",
+    "static/media/undraw_wireframing_d3cx.svg": "/Behoop/static/media/undraw_wireframing_d3cx.9c9a05228b4c6a977faca93a434e3b5a.svg",
+    "static/media/undraw_search-engines_k649.svg": "/Behoop/static/media/undraw_search-engines_k649.55211e5b443bdc5bd2265cacc696f612.svg",
+    "index.html": "/Behoop/index.html",
+    "main.9f63103b.css.map": "/Behoop/static/css/main.9f63103b.css.map",
+    "main.ce0f2735.js.map": "/Behoop/static/js/main.ce0f2735.js.map",
+    "252.c255c148.chunk.js.map": "/Behoop/static/js/252.c255c148.chunk.js.map",
+    "588.c97b1efa.chunk.js.map": "/Behoop/static/js/588.c97b1efa.chunk.js.map",
+    "877.ef9be134.chunk.js.map": "/Behoop/static/js/877.ef9be134.chunk.js.map",
+    "258.11dc32ca.chunk.js.map": "/Behoop/static/js/258.11dc32ca.chunk.js.map",
+    "211.d92ca296.chunk.js.map": "/Behoop/static/js/211.d92ca296.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f63103b.css",
+    "static/js/main.ce0f2735.js"
+  ]
+}
